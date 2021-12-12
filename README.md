@@ -1,11 +1,11 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JulyWitch" alt="JulyWitch" /> </p>
 
 - 🔭 I’m currently working on Flutter apps
 - 📫 How to reach me: https://t.me/JulyWitch
 
 
 [![<user_name>'s Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/13547175?color=orange&label=reputation&logo=stackoverflow&style=for-the-badge)](https://stackoverflow.com/users/<user_id> "<user_name>'s Stack Overflow Reputation")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JulyWitch" alt="JulyWitch" /> </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JulyWitch&theme=github_dark&show_icons=true&count_private=true)
 
