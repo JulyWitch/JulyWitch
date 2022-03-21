@@ -9,11 +9,7 @@
 ### Links
 
 
-Stack overflow
-<a href="https://stackoverflow.com/users/13547175/sajad-abdollahi" target="_blank">
-<img alt="StackOverflow"
-src="https://stackoverflow-badge.vercel.app/?userID=13547175" />
-</a>
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=13547175&layout=compact&theme=dark)](https://stackoverflow.com/users/13547175/sajad-abdollahi)
 
 <a href="https://wa.me/00989307063710" target="_blank">
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
