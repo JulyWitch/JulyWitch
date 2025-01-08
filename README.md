@@ -1,7 +1,5 @@
 ### Hey there, I'm Sajad 👋
 
-Yet just another developer.
-
 ### 🔧 Tech Stack
 
 - **Languages**: TS/JS, Dart, SQL
@@ -13,16 +11,12 @@ Yet just another developer.
 ### 🚀 Areas of Expertise
 
 - **IoT Data Processing**  
-   Building efficient pipelines to capture, filter, and translate IoT data streams.
 
 - **Microservices Architecture**  
-   Creating scalable microservices for complex, event-driven workflows with tools like Kafka and Redis.
 
 - **API Development**  
-   Developing secure, scalable APIs for seamless front-end and back-end integration.
 
 - **Frontend Development**  
-   Designing responsive and intuitive user interfaces with a focus on performance and usability.
 
 ### 🎨 Hobbies & Interests
 
