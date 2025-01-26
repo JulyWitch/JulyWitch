@@ -4,18 +4,15 @@
 
 - **Languages**: TS/JS, Dart, SQL
 - **Frameworks & Libraries**: Node.js, Express, React, Next.js, Flutter
-- **Infrastructure**: Kafka, Redis, PostgreSQL
-- **Testing**: Mocha, Chai, TypeScript
-- **DevOps**: Docker, GitLab CI/CD, GitHub CI/CD
+- **Infrastructure**: Kafka, Redis, PostgreSQL, Firebase, gRPC, GQL
+- **Testing**: Mocha, Chai, Selenium
+- **DevOps**: Docker, GitLab CI/CD, GitHub Actions
 
 ### 🚀 Areas of Expertise
 
 - **IoT Data Processing**  
-
 - **Microservices Architecture**  
-
 - **API Development**  
-
 - **Frontend Development**  
 
 ### 🎨 Hobbies & Interests
@@ -53,6 +50,18 @@
 #### C#
 - [ESKB Reader](https://github.com/JulyWitch/eskb_reader): CLI Knowledge base reader (2021)
 
+----
+### Blog
+
+#### English
+
+- [Why I Ditched Modern IDEs for Neovim (And What It Taught Me About Coding)](https://sajadabdollahi.ir/en/posts/neovim-experience/) 
+
+#### فارسی
+
+- [آموزش راه‌اندازی سرویس DNS تحریم شکن](https://sajadabdollahi.ir/posts/bypass-sanctions/)
+- [چطوری پروژه نرم‌افزاری رو مطمئن شروع کنیم؟](https://sajadabdollahi.ir/posts/tracer-bullets/)
+- [اهمیت طراحی خوب در برنامه نویسی و اصل ETC](https://sajadabdollahi.ir/posts/etc-principle/)
 ----
 ### Links
 
